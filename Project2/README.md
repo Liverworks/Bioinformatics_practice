@@ -1,0 +1,3 @@
+Search for influenza virus mutations causing vaccine inefficiency
+
+Abstract. The flu vaccine is a recommended method of disease prevention. Whereas influenza easily mutates and become dangerous even for vaccinated people. In this study a virus sample which was capable to infect a vaccinated man was examined. The strain of the virus was in the vaccine but 7 SNPs were found. Only one of them was non-synonymous and it changed an amino acid in HA epitope D. Despite its low frequency it may be responsible for the infection. Sequencing errors were filtered using three control samples sequencing of the same strain.
