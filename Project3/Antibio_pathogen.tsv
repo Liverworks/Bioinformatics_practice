@@ -1,0 +1,13 @@
+Database	Resistance gene	Identity	Query / Template length	Contig	Position in contig	Predicted phenotype	Accession number
+beta-lactam	blaCTX-M-15	100.0	876 / 876	NODE_7_length_101486_cov_71.819010	81599..82474	Beta-lactam resistance Alternate name; UOE-1	AY044436
+beta-lactam	blaTEM-1B	100.0	861 / 861	NODE_7_length_101486_cov_71.819010	85296..86156	Beta-lactam resistance Alternate name; RblaTEM-1	AY458016
+sulphonamide	sul1	100.0	761 / 840	NODE_1_length_2374157_cov_75.937583	1547813..1548573	Sulphonamide resistance	AY115475
+sulphonamide	sul1	100.0	761 / 828	NODE_1_length_2374157_cov_75.937583	1547813..1548573	Sulphonamide resistance	AY522923
+sulphonamide	sul1	100.0	761 / 882	NODE_1_length_2374157_cov_75.937583	1547813..1548573	Sulphonamide resistance	DQ914960
+sulphonamide	sul1	100.0	761 / 840	NODE_1_length_2374157_cov_75.937583	1547813..1548573	Sulphonamide resistance	U12338
+sulphonamide	sul2	100.0	816 / 816	NODE_1_length_2374157_cov_75.937583	1541664..1542479	Sulphonamide resistance	HQ840942
+tetracycline	tet(A)	100.0	1200 / 1200	NODE_19_length_4054_cov_26.490123	956..2155	Tetracycline resistance	AJ517790
+aminoglycoside	aph(3'')-Ib	100.0	804 / 804	NODE_1_length_2374157_cov_75.937583	1540800..1541603	Aminoglycoside resistance Alternate name; aph(3'')-Ib	AF321551
+aminoglycoside	aph(6)-Id	100.0	837 / 837	NODE_1_length_2374157_cov_75.937583	1539964..1540800	Aminoglycoside resistance Alternate name; aph(6)-Id	M28829
+macrolide	mdf(A)	98.46	1233 / 1233	NODE_3_length_1040820_cov_76.040220	851275..852507	Warning: gene is missing from Notes file. Please inform curator.	Y08743
+trimethoprim	dfrA7	100.0	474 / 474	NODE_1_length_2374157_cov_75.937583	1549144..1549617	Trimethoprim resistance	AB161450
