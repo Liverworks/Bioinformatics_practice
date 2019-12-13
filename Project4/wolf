@@ -1,0 +1,2446 @@
+
+g702.t1 (215 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 17; peak value 0.31
+PSG score: -4.09
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 2.47
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -3.77 Transmembrane 1 - 17
+PERIPHERAL Likelihood = 6.52 (at 100)
+ALOM score: -3.77 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 8
+Charge difference: -2.0 C( 0.0) - N( 2.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 1) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 4.02
+Hyd Moment(95): 5.70 G content: 1
+D/E content: 1 S/T content: 2
+Score: -5.21
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: RRRK (5) at 191
+pat7: none
+bipartite: none
+content of basic residues: 10.2%
+NLS Score: -0.16
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g1285.t1 (193 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 18; peak value 0.84
+PSG score: -3.56
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 2.53
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -4.99 Transmembrane 3 - 19
+PERIPHERAL Likelihood = 6.36 (at 111)
+ALOM score: -4.99 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 10
+Charge difference: 0.0 C( 2.0) - N( 2.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 3) MITDISC: discrimination of mitochondrial targeting seq
+R content: 3 Hyd Moment(75): 4.53
+Hyd Moment(95): 6.72 G content: 3
+D/E content: 1 S/T content: 4
+Score: -2.63
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 34 RRA|NG
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 10.4%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g2203.t1 (845 aa)
+PSG: a new signal peptide prediction method
+N-region: length 8; pos.chg 0; neg.chg 2
+H-region: length 6; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -6.60
+possible cleavage site: between 58 and 59
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 2
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood =-14.54 Transmembrane 145 - 161
+PERIPHERAL Likelihood = 2.60 (at 705)
+ALOM score: -14.54 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 152
+Charge difference: -1.0 C(-1.0) - N( 0.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 145) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 7.93
+Hyd Moment(95): 7.27 G content: 0
+D/E content: 2 S/T content: 1
+Score: -6.36
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: KRRK (5) at 74
+pat7: none
+bipartite: RRALDDWAHLIKRRKYV at 63
+content of basic residues: 9.9%
+NLS Score: 0.33
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: found
+LL at 27
+LL at 52
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g3428.t1 (171 aa)
+PSG: a new signal peptide prediction method
+N-region: length 9; pos.chg 4; neg.chg 1
+H-region: length 2; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -9.83
+possible cleavage site: between 61 and 62
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 2.65 (at 69)
+ALOM score: 2.65 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 2 Hyd Moment(75): 7.60
+Hyd Moment(95): 10.23 G content: 1
+D/E content: 2 S/T content: 4
+Score: -3.80
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 22 QRA|TS
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 13.5%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+KKXX-like motif in the C-terminus: GPPK
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g3679.t1 (285 aa)
+PSG: a new signal peptide prediction method
+N-region: length 3; pos.chg 1; neg.chg 0
+H-region: length 16; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 4.00
+possible cleavage site: between 18 and 19
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 0
+PERIPHERAL Likelihood = 8.80 (at 166)
+ALOM score: -0.96 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 1 Hyd Moment(75): 5.01
+Hyd Moment(95): 6.16 G content: 3
+D/E content: 1 S/T content: 4
+Score: -4.45
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 30 ARS|SG
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 11.2%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g4106.t1 (642 aa)
+PSG: a new signal peptide prediction method
+N-region: length 6; pos.chg 1; neg.chg 0
+H-region: length 27; peak value 8.49
+PSG score: 4.09
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -1.56
+possible cleavage site: between 24 and 25
+
+>>> Seems to have a cleavable signal peptide (1 to 24) ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 25
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -3.08 Transmembrane 62 - 78
+PERIPHERAL Likelihood = 3.34 (at 168)
+ALOM score: -3.08 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 12
+Charge difference: 0.5 C( 3.0) - N( 2.5)
+C > N: C-terminal side will be inside
+
+>>>Caution: Inconsistent mtop result with signal peptide >>> membrane topology: type 1a (cytoplasmic tail 79 to 642) MITDISC: discrimination of mitochondrial targeting seq
+R content: 3 Hyd Moment(75): 1.59
+Hyd Moment(95): 3.54 G content: 2
+D/E content: 1 S/T content: 15
+Score: 0.39
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 55 TRI|NN
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: KRQTGPLSAAASRRDAR at 477
+content of basic residues: 9.3%
+NLS Score: 0.02
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: GRA
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g4970.t1 (901 aa)
+PSG: a new signal peptide prediction method
+N-region: length 10; pos.chg 1; neg.chg 1
+H-region: length 3; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -12.01
+possible cleavage site: between 61 and 62
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood =-11.20 Transmembrane 227 - 243
+PERIPHERAL Likelihood = 2.60 (at 668)
+ALOM score: -11.20 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 234
+Charge difference: -1.0 C( 0.5) - N( 1.5)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 227) MITDISC: discrimination of mitochondrial targeting seq
+R content: 2 Hyd Moment(75): 2.06
+Hyd Moment(95): 2.36 G content: 7
+D/E content: 2 S/T content: 3
+Score: -8.65
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 20 DRN|CY
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 10.2%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: found
+ILPK at 577
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g5237.t1 (228 aa)
+PSG: a new signal peptide prediction method
+N-region: length 10; pos.chg 2; neg.chg 1
+H-region: length 1; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -2.11
+possible cleavage site: between 43 and 44
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -4.94 Transmembrane 209 - 225
+PERIPHERAL Likelihood = 3.02 (at 176)
+ALOM score: -4.94 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 216
+Charge difference: 1.0 C( 1.0) - N( 0.0)
+C > N: C-terminal side will be inside
+
+>>> Single TMS is located near the C-terminus
+
+>>> membrane topology: type Nt (cytoplasmic tail 1 to 208) MITDISC: discrimination of mitochondrial targeting seq
+R content: 3 Hyd Moment(75): 7.11
+Hyd Moment(95): 10.02 G content: 1
+D/E content: 2 S/T content: 2
+Score: -3.58
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 22 MRL|HL
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 6.1%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+KKXX-like motif in the C-terminus: VLLK
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g5443.t1 (120 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 26; peak value 0.57
+PSG score: -3.83
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -3.51
+possible cleavage site: between 36 and 37
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 1.54 (at 12)
+ALOM score: 1.54 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 1 Hyd Moment(75): 4.32
+Hyd Moment(95): 6.88 G content: 1
+D/E content: 1 S/T content: 3
+Score: -3.81
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 12 MRA|PS
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 7.5%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+XXRR-like motif in the N-terminus: RAPS
+
+none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g5467.t1 (145 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 18; peak value 0.31
+PSG score: -4.09
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 3.84
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -7.64 Transmembrane 3 - 19
+PERIPHERAL Likelihood = 6.15 (at 84)
+ALOM score: -7.64 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 10
+Charge difference: -0.5 C( 1.5) - N( 2.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 3) MITDISC: discrimination of mitochondrial targeting seq
+R content: 3 Hyd Moment(75): 4.25
+Hyd Moment(95): 5.58 G content: 2
+D/E content: 1 S/T content: 3
+Score: -2.62
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 34 RRA|NG
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 6.2%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g5502.t1 (244 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 18; peak value 0.31
+PSG score: -4.09
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 3.84
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -7.64 Transmembrane 3 - 19
+PERIPHERAL Likelihood = 6.36 (at 107)
+ALOM score: -7.64 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 10
+Charge difference: 1.5 C( 3.5) - N( 2.0)
+C > N: C-terminal side will be inside
+
+>>> membrane topology: type 1b (cytoplasmic tail 3 to 244) MITDISC: discrimination of mitochondrial targeting seq
+R content: 3 Hyd Moment(75): 4.25
+Hyd Moment(95): 5.58 G content: 2
+D/E content: 1 S/T content: 3
+Score: -2.62
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 34 RRA|NG
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 8.6%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: found
+LL at 152
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g5503.t1 (215 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 18; peak value 0.31
+PSG score: -4.09
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 3.84
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -7.64 Transmembrane 3 - 19
+PERIPHERAL Likelihood = 6.79 (at 107)
+ALOM score: -7.64 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 10
+Charge difference: 1.5 C( 3.5) - N( 2.0)
+C > N: C-terminal side will be inside
+
+>>> membrane topology: type 1b (cytoplasmic tail 3 to 215) MITDISC: discrimination of mitochondrial targeting seq
+R content: 3 Hyd Moment(75): 4.25
+Hyd Moment(95): 5.58 G content: 2
+D/E content: 1 S/T content: 3
+Score: -2.62
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 34 RRA|NG
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 9.3%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: found
+LL at 152
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g5510.t1 (208 aa)
+PSG: a new signal peptide prediction method
+N-region: length 7; pos.chg 1; neg.chg 0
+H-region: length 7; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -0.14
+possible cleavage site: between 61 and 62
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 4
+INTEGRAL Likelihood = -8.76 Transmembrane 46 - 62
+INTEGRAL Likelihood = -9.02 Transmembrane 101 - 117
+INTEGRAL Likelihood = -9.66 Transmembrane 141 - 157
+INTEGRAL Likelihood = -4.14 Transmembrane 181 - 197
+PERIPHERAL Likelihood = 8.27 (at 119)
+ALOM score: -9.66 (number of TMSs: 4)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 53
+Charge difference: -0.5 C( 0.5) - N( 1.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 3a MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 3.91
+Hyd Moment(95): 6.69 G content: 4
+D/E content: 1 S/T content: 14
+Score: -2.91
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 73 LRQ|EH
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 6.7%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+KKXX-like motif in the C-terminus: GPKT
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs:
+Leucine zipper pattern (PS00029): *** found ***
+LGKIPGILKIVELILAAVALGL at 37
+none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g5616.t1 (202 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 17; peak value 0.31
+PSG score: -4.09
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 3.38
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -6.79 Transmembrane 1 - 17
+PERIPHERAL Likelihood = 6.36 (at 99)
+ALOM score: -6.79 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 8
+Charge difference: -2.0 C( 0.0) - N( 2.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 1) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 4.49
+Hyd Moment(95): 5.55 G content: 1
+D/E content: 1 S/T content: 1
+Score: -5.46
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 8.9%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g5641.t1 (192 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 17; peak value 0.31
+PSG score: -4.09
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 2.76
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -6.69 Transmembrane 3 - 19
+PERIPHERAL Likelihood = 6.79 (at 99)
+ALOM score: -6.69 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 10
+Charge difference: -2.0 C( 0.0) - N( 2.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 3) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 4.49
+Hyd Moment(95): 5.55 G content: 1
+D/E content: 1 S/T content: 2
+Score: -5.16
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: KRRR (5) at 184
+pat7: none
+bipartite: none
+content of basic residues: 10.9%
+NLS Score: -0.16
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+KKXX-like motif in the C-terminus: VKKQ
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g5927.t1 (874 aa)
+PSG: a new signal peptide prediction method
+N-region: length 9; pos.chg 2; neg.chg 1
+H-region: length 2; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -9.03
+possible cleavage site: between 38 and 39
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 5.20 (at 129)
+ALOM score: 5.20 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 2.85
+Hyd Moment(95): 7.69 G content: 0
+D/E content: 2 S/T content: 2
+Score: -6.71
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: PKRR (4) at 173
+pat4: RPKK (4) at 367
+pat4: KRPK (4) at 510
+pat4: KRPK (4) at 560
+pat4: KRPK (4) at 623
+pat7: PKRRIVG (5) at 173
+pat7: PAKRPKE (4) at 508
+pat7: PAKRPKE (4) at 558
+pat7: PAKRPKV (4) at 621
+bipartite: none
+content of basic residues: 16.9%
+NLS Score: 2.25
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+KKXX-like motif in the C-terminus: HGKG
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: found
+KLPK at 171
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g7861.t1 (619 aa)
+PSG: a new signal peptide prediction method
+N-region: length 10; pos.chg 2; neg.chg 2
+H-region: length 1; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -12.77
+possible cleavage site: between 49 and 50
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -2.97 Transmembrane 467 - 483
+PERIPHERAL Likelihood = 1.75 (at 259)
+ALOM score: -2.97 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 474
+Charge difference: -1.0 C(-2.0) - N(-1.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 467) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 4.19
+Hyd Moment(95): 7.75 G content: 0
+D/E content: 2 S/T content: 1
+Score: -6.82
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: RRLKKDVANQLREKSRK at 497
+content of basic residues: 12.9%
+NLS Score: 0.02
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: found
+LL at 167
+LL at 259
+LL at 263
+LL at 359
+LL at 405
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g8100.t1 (1313 aa)
+PSG: a new signal peptide prediction method
+N-region: length 10; pos.chg 2; neg.chg 2
+H-region: length 2; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -3.02
+possible cleavage site: between 46 and 47
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 2
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -4.04 Transmembrane 384 - 400
+PERIPHERAL Likelihood = 0.85 (at 232)
+ALOM score: -4.04 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 391
+Charge difference: -4.0 C(-0.5) - N( 3.5)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 384) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 7.69
+Hyd Moment(95): 12.51 G content: 0
+D/E content: 2 S/T content: 0
+Score: -6.08
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: PRKK (4) at 660
+pat4: KRRK (5) at 919
+pat4: RPRR (4) at 1214
+pat7: PRKKNDV (5) at 660
+bipartite: RRMRHGERDVCVEKKRS at 1017
+content of basic residues: 14.2%
+NLS Score: 1.27
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: found
+LL at 106
+LL at 290
+LL at 294
+LL at 305
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g8312.t1 (886 aa)
+PSG: a new signal peptide prediction method
+N-region: length 10; pos.chg 0; neg.chg 3
+H-region: length 3; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -12.09
+possible cleavage site: between 42 and 43
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 0
+PERIPHERAL Likelihood = 1.59 (at 336)
+ALOM score: -0.53 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 3.08
+Hyd Moment(95): 6.55 G content: 1
+D/E content: 2 S/T content: 3
+Score: -6.99
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 11.9%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: found
+KLPN at 330
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g10513.t1 (344 aa)
+PSG: a new signal peptide prediction method
+N-region: length 0; pos.chg 0; neg.chg 0
+H-region: length 11; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -11.05
+possible cleavage site: between 38 and 39
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 14.69 (at 143)
+ALOM score: 14.69 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 1.19
+Hyd Moment(95): 1.69 G content: 0
+D/E content: 2 S/T content: 9
+Score: -5.53
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 5.2%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g10514.t1 (286 aa)
+PSG: a new signal peptide prediction method
+N-region: length 11; pos.chg 2; neg.chg 2
+H-region: length 1; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -15.59
+possible cleavage site: between 31 and 32
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 15.54 (at 66)
+ALOM score: 15.54 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 2 Hyd Moment(75): 3.66
+Hyd Moment(95): 3.85 G content: 0
+D/E content: 2 S/T content: 3
+Score: -4.92
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-3 motif at 44 DRGY|S
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 8.7%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+XXRR-like motif in the N-terminus: SYNR
+
+none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g11320.t1 (466 aa)
+PSG: a new signal peptide prediction method
+N-region: length 0; pos.chg 0; neg.chg 0
+H-region: length 23; peak value 0.21
+PSG score: -4.19
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -1.84
+possible cleavage site: between 20 and 21
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -4.94 Transmembrane 1 - 17
+PERIPHERAL Likelihood = 1.85 (at 381)
+ALOM score: -4.94 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 8
+Charge difference: -3.0 C(-2.0) - N( 1.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 1) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 0.66
+Hyd Moment(95): 3.69 G content: 1
+D/E content: 1 S/T content: 3
+Score: -5.60
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 4.7%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g11513.t1 (1099 aa)
+PSG: a new signal peptide prediction method
+N-region: length 11; pos.chg 0; neg.chg 2
+H-region: length 0; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -6.87
+possible cleavage site: between 41 and 42
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -2.07 Transmembrane 902 - 918
+PERIPHERAL Likelihood = 0.58 (at 600)
+ALOM score: -2.07 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 909
+Charge difference: -1.0 C(-1.0) - N( 0.0)
+N >= C: N-terminal side will be inside
+
+>>> Single TMS is located near the C-terminus
+
+>>> membrane topology: type Nt (cytoplasmic tail 1 to 901) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 3.99
+Hyd Moment(95): 2.64 G content: 0
+D/E content: 2 S/T content: 2
+Score: -7.14
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: KKRK (5) at 279
+pat7: none
+bipartite: RKEGFKFELGSSAQKKR at 265
+content of basic residues: 11.3%
+NLS Score: 0.33
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: found
+LL at 102
+LL at 175
+LL at 176
+LL at 216
+LL at 228
+LL at 294
+LL at 295
+LL at 381
+LL at 392
+LL at 484
+LL at 554
+LL at 746
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g11806.t1 (201 aa)
+PSG: a new signal peptide prediction method
+N-region: length 11; pos.chg 2; neg.chg 0
+H-region: length 0; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -11.29
+possible cleavage site: between 55 and 56
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 14.38 (at 1)
+ALOM score: 14.38 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 2 Hyd Moment(75): 6.70
+Hyd Moment(95): 5.32 G content: 3
+D/E content: 1 S/T content: 2
+Score: -4.01
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 22 RRP|CL
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 6.5%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g11960.t1 (981 aa)
+PSG: a new signal peptide prediction method
+N-region: length 4; pos.chg 1; neg.chg 0
+H-region: length 11; peak value 0.10
+PSG score: -4.30
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -10.41
+possible cleavage site: between 34 and 35
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 2.01 (at 310)
+ALOM score: 2.01 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 6.83
+Hyd Moment(95): 4.87 G content: 3
+D/E content: 1 S/T content: 11
+Score: -3.15
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: KKPK (4) at 56
+pat4: RHRK (3) at 101
+pat7: PAAKKPK (3) at 53
+bipartite: none
+content of basic residues: 17.1%
+NLS Score: 0.22
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs:
+Zinc finger, C3HC4 type, signature (PS00518): *** found ***
+CYHVFCHSCI at 942
+
+Leucine zipper pattern (PS00029): *** found ***
+LAATEAKLQSTETELRSTTSEL at 647
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g12388.t1 (165 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 18; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 3.89
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -4.51 Transmembrane 1 - 17
+PERIPHERAL Likelihood = 4.56 (at 107)
+ALOM score: -4.51 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 8
+Charge difference: 2.0 C( 4.0) - N( 2.0)
+C > N: C-terminal side will be inside
+
+>>> membrane topology: type 1b (cytoplasmic tail 1 to 165) MITDISC: discrimination of mitochondrial targeting seq
+R content: 3 Hyd Moment(75): 4.14
+Hyd Moment(95): 5.97 G content: 1
+D/E content: 1 S/T content: 3
+Score: -2.12
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 34 RRA|NG
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 9.7%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+KKXX-like motif in the C-terminus: FSKP
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: too long tail
+
+Dileucine motif in the tail: found
+LL at 152
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g12510.t1 (513 aa)
+PSG: a new signal peptide prediction method
+N-region: length 6; pos.chg 0; neg.chg 1
+H-region: length 7; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -7.62
+possible cleavage site: between 44 and 45
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 7
+INTEGRAL Likelihood = -6.90 Transmembrane 151 - 167
+INTEGRAL Likelihood = -8.28 Transmembrane 197 - 213
+INTEGRAL Likelihood = -4.83 Transmembrane 233 - 249
+INTEGRAL Likelihood = -7.22 Transmembrane 281 - 297
+INTEGRAL Likelihood = -4.88 Transmembrane 349 - 365
+INTEGRAL Likelihood = -6.32 Transmembrane 392 - 408
+INTEGRAL Likelihood = -7.59 Transmembrane 486 - 502
+PERIPHERAL Likelihood = 0.90 (at 74)
+ALOM score: -8.28 (number of TMSs: 7)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 158
+Charge difference: -1.0 C( 0.0) - N( 1.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 3a MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 5.58
+Hyd Moment(95): 7.14 G content: 1
+D/E content: 2 S/T content: 3
+Score: -6.57
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 8.0%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs:
+Leucine zipper pattern (PS00029): *** found ***
+LTGEVFFLCVMSAGLMWLVAIL at 191
+LAGEVFFLCICAAALTYLFGQL at 350
+none
+
+checking 71 PROSITE ribosomal protein motifs:
+Ribosomal protein L30 signature (PS00634): *** found ***
+ITSTPGFNINYFGKIPGILKVLELVTIVVAL at 134
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g12562.t1 (200 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 17; peak value 0.31
+PSG score: -4.09
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 3.20
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -3.40 Transmembrane 1 - 17
+PERIPHERAL Likelihood = 3.02 (at 153)
+ALOM score: -3.40 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 8
+Charge difference: -2.0 C( 0.0) - N( 2.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 1) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 4.49
+Hyd Moment(95): 5.55 G content: 1
+D/E content: 1 S/T content: 2
+Score: -5.16
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: KKRR (5) at 177
+pat7: none
+bipartite: KRSGSSGKKRRVKKTKL at 170
+content of basic residues: 10.0%
+NLS Score: 0.33
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g13530.t1 (931 aa)
+PSG: a new signal peptide prediction method
+N-region: length 3; pos.chg 1; neg.chg 0
+H-region: length 12; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -0.14
+possible cleavage site: between 15 and 16
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 0
+PERIPHERAL Likelihood = 4.61 (at 408)
+ALOM score: -0.80 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 1 Hyd Moment(75): 6.95
+Hyd Moment(95): 7.64 G content: 1
+D/E content: 1 S/T content: 1
+Score: -3.96
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+R-2 motif at 13 GRL|SL
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 5.4%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+XXRR-like motif in the N-terminus: GRLS
+
+none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g14472.t1 (445 aa)
+PSG: a new signal peptide prediction method
+N-region: length 10; pos.chg 0; neg.chg 1
+H-region: length 5; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -7.88
+possible cleavage site: between 49 and 50
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 5.41 (at 144)
+ALOM score: 5.41 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 2.56
+Hyd Moment(95): 2.87 G content: 1
+D/E content: 2 S/T content: 9
+Score: -5.68
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: RKRK (5) at 442
+pat7: none
+bipartite: none
+content of basic residues: 16.0%
+NLS Score: -0.16
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+KKXX-like motif in the C-terminus: GRKR
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g15153.t1 (177 aa)
+PSG: a new signal peptide prediction method
+N-region: length 2; pos.chg 1; neg.chg 0
+H-region: length 17; peak value 0.31
+PSG score: -4.09
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): 3.78
+possible cleavage site: between 16 and 17
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 1
+INTEGRAL Likelihood = -4.62 Transmembrane 1 - 17
+PERIPHERAL Likelihood = 6.79 (at 99)
+ALOM score: -4.62 (number of TMSs: 1)
+
+MTOP: Prediction of membrane topology (Hartmann et al.)
+Center position for calculation: 8
+Charge difference: -2.0 C( 0.0) - N( 2.0)
+N >= C: N-terminal side will be inside
+
+>>> membrane topology: type 2 (cytoplasmic tail 1 to 1) MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 4.25
+Hyd Moment(95): 5.58 G content: 1
+D/E content: 1 S/T content: 1
+Score: -5.49
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 8.5%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g15484.t1 (903 aa)
+PSG: a new signal peptide prediction method
+N-region: length 9; pos.chg 0; neg.chg 1
+H-region: length 6; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -12.36
+possible cleavage site: between 26 and 27
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 1
+Number of TMS(s) for threshold 0.5: 0
+PERIPHERAL Likelihood = 1.85 (at 810)
+ALOM score: 0.42 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 2.53
+Hyd Moment(95): 4.57 G content: 1
+D/E content: 2 S/T content: 3
+Score: -7.29
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: PARLKKC (4) at 131
+bipartite: none
+content of basic residues: 13.0%
+NLS Score: -0.13
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals:
+KKXX-like motif in the C-terminus: RKAL
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g16318.t1 (264 aa)
+*** Warning: 1st aa is not methyonine PSG: a new signal peptide prediction method
+N-region: length 6; pos.chg 0; neg.chg 1
+H-region: length 9; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -15.31
+possible cleavage site: between 21 and 22
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 16.39 (at 226)
+ALOM score: 16.39 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 4.48
+Hyd Moment(95): 3.60 G content: 4
+D/E content: 2 S/T content: 2
+Score: -8.87
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 3.0%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
+g16368.t1 (244 aa)
+*** Warning: 1st aa is not methyonine PSG: a new signal peptide prediction method
+N-region: length 6; pos.chg 0; neg.chg 1
+H-region: length 9; peak value 0.00
+PSG score: -4.40
+
+GvH: von Heijne's method for signal seq. recognition
+GvH score (threshold: -2.1): -15.31
+possible cleavage site: between 21 and 22
+
+>>> Seems to have no N-terminal signal peptide ALOM: Klein et al's method for TM region allocation
+Init position for calculation: 1
+Tentative number of TMS(s) for the threshold 0.5: 0
+number of TMS(s) .. fixed
+PERIPHERAL Likelihood = 16.39 (at 206)
+ALOM score: 16.39 (number of TMSs: 0)
+
+MITDISC: discrimination of mitochondrial targeting seq
+R content: 0 Hyd Moment(75): 4.48
+Hyd Moment(95): 3.60 G content: 4
+D/E content: 2 S/T content: 2
+Score: -8.87
+
+Gavel: prediction of cleavage sites for mitochondrial preseq
+cleavage site motif not found
+
+NUCDISC: discrimination of nuclear localization signals
+pat4: none
+pat7: none
+bipartite: none
+content of basic residues: 3.3%
+NLS Score: -0.47
+
+KDEL: ER retention motif in the C-terminus: none
+
+ER Membrane Retention Signals: none
+
+SKL: peroxisomal targeting signal in the C-terminus: none
+
+PTS2: 2nd peroxisomal targeting signal: none
+
+VAC: possible vacuolar targeting motif: none
+
+RNA-binding motif: none
+
+Actinin-type actin-binding motif:
+type 1: none
+type 2: none
+
+NMYR: N-myristoylation pattern : none
+
+Farnesylation/Geranylgeranylation motif: none
+
+memYQRL: transport motif from cell surface to Golgi: none
+
+Tyrosines in the tail: none
+
+Dileucine motif in the tail: none
+
+checking 63 PROSITE DNA binding motifs: none
+
+checking 71 PROSITE ribosomal protein motifs: none
+
+checking 33 PROSITE prokaryotic dna binding motifs: none
+
+
